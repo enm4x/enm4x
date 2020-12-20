@@ -11,9 +11,9 @@ I am in my final year as a computer science engineer and have experienced workin
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)](https://github.com/maxdvlg) 
 [![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)](https://github.com/maxdvlg) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/maxdvlg)](https://github.com/maxdvlg) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)]()
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/hritik5102)]()
-[![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/maxdvlg)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/maxdvlg)]()
+[![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/maxdvlg)](https://github.com/hritik5102) 
 
 📦 Tools i like : 
 
@@ -24,7 +24,8 @@ I am in my final year as a computer science engineer and have experienced workin
 
 🔍 Knowledge i'd like to improve : 
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/maxdvlg)](https://github.com/maxdvlg) 
+[![React](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&link=https://github.com/maxdvlg)](https://github.com/maxdvlg) 
 
 
 

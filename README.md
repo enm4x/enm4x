@@ -1,6 +1,6 @@
 # Hi there, i'm Max 👋
 
-I am grqduqted computer science engineer and have experienced working in few company as a distributed ledger developer and some other fun stuff 👨‍💻. 
+I am graduated computer science engineer and have experienced working in few company as a distributed ledger developer and some other fun stuff 👨‍💻. 
 
 :alembic:  I’m currently learning Hardware instructions set, Distributed network, AI/ML stuff...
 
